@@ -12,6 +12,8 @@
 #### 1.Meta信息规范 ####
 
 ```html
+<!--版本信息-->
+<meta content="0.1" name=version"/>
 <!--viewport设定-->
 <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, width=device-width" />
 <!--IOS设备webapp的全屏样式设置-->
